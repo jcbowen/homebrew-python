@@ -7,13 +7,13 @@ Apple does not include Python 2 since macOS 12.3 update. This homebrew tap conta
 ### Installation
 
 ```sh
-brew install kamilturek/python2/python@2
+brew install jcbowen/python/python@2
 ```
 
 ### Uninstallation
 
 ```sh
-brew uninstall kamilturek/python2/python@2
+brew uninstall jcbowen/python/python@2
 ```
 
 ## Contribution
